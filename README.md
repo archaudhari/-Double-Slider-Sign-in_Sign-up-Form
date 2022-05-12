@@ -1,1 +1,1 @@
-# -Double-Slider-Sign-in_Sign-up-Form
+# Double-Slider-Sign-in_Sign-up-Form
